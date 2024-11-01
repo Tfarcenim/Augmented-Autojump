@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package tfar.augmentedautojump.platform.services;
 
 public interface IPlatformHelper {
 

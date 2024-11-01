@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package tfar.augmentedautojump.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import tfar.augmentedautojump.platform.services.IPlatformHelper;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.loading.FMLLoader;
 
